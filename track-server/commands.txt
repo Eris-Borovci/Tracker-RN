@@ -1,0 +1,14 @@
+npm init -y
+
+npm install bcrypt express jsonwebtoken mongoose nodemon
+
+node src/index.js but because we created a script on package.json we can run "npm run dev"
+
+express: to create the application and communicate to server
+mongoose: to connect to mongodb
+nodemon: use it to make automated refresh on changes, this should be applied to package.json script
+bcrypt: to encrypt or hash the passwords
+
+
+
+we have to download https://www.postman.com/downloads/ to make requests and test application :)

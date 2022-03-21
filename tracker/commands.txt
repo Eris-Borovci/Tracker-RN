@@ -1,0 +1,6 @@
+To use all of this navigators you should yarn add {
+    react-native-reanimated,
+    react-native-screens,
+    react-navigation-tabs // to use the createBottomTabs,
+    react-native-gesture-handler,
+}
